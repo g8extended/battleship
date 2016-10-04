@@ -1,0 +1,28 @@
+{
+  "name": "battleship",
+  "version": "0.0.1",
+  "description": "Battleship ftw!",
+  "main": "index.js",
+  "scripts": {
+    "dev": "",
+    "test": "",
+    "build": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/g8extended/battleship.git"
+  },
+  "keywords": [
+    "battleship",
+    "battle",
+    "ship",
+    "g8",
+    "extended"
+  ],
+  "author": "g8extended",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/g8extended/battleship/issues"
+  },
+  "homepage": "https://github.com/g8extended/battleship#readme"
+}
